@@ -1,20 +1,20 @@
 {
   "symbol": "BTCUSDT",
   "source": "Binance Futures",
-  "collected_at": "2026-10-15T16:59:55.075475+00:00",
-  "published_at": "2026-10-15T17:00:00.452946+00:00",
-  "last_price": 82081.2,
-  "mark_price": 82081.2,
-  "funding_rate": 3.167e-05,
-  "open_interest_btc": 92759.129,
+  "collected_at": "2026-10-15T17:04:59.916513+00:00",
+  "published_at": "2026-10-15T17:05:00.366367+00:00",
+  "last_price": 82082.3,
+  "mark_price": 82083.9,
+  "funding_rate": 3.542e-05,
+  "open_interest_btc": 92745.557,
   "candles": {
     "1h": {
-      "close_time": 1792079999999,
-      "open": 81840.5,
-      "high": 82588.9,
-      "low": 81720.3,
-      "close": 82374.0,
-      "volume_btc": 19969.981
+      "close_time": 1792083599999,
+      "open": 82374.0,
+      "high": 82507.3,
+      "low": 81906.1,
+      "close": 82081.2,
+      "volume_btc": 10367.678
     },
     "4h": {
       "close_time": 1792079999999,
@@ -26,17 +26,9 @@
     }
   },
   "version": "2.0",
-  "binance_time_ms": 1792083594000,
+  "binance_time_ms": 1792083899002,
   "history": {
     "1h": [
-      {
-        "close_time": 1791867599999,
-        "open": 83299.9,
-        "high": 83558.8,
-        "low": 83217.4,
-        "close": 83420.1,
-        "volume_btc": 5622.279
-      },
       {
         "close_time": 1791871199999,
         "open": 83420.0,
@@ -508,6 +500,14 @@
         "low": 81720.3,
         "close": 82374.0,
         "volume_btc": 19969.981
+      },
+      {
+        "close_time": 1792083599999,
+        "open": 82374.0,
+        "high": 82507.3,
+        "low": 81906.1,
+        "close": 82081.2,
+        "volume_btc": 10367.678
       }
     ],
     "4h": [
@@ -995,10 +995,10 @@
   },
   "analytics": {
     "1h": {
-      "volume_ratio_20": 2.325,
-      "prior_20_high": 82048.8,
+      "volume_ratio_20": 1.101,
+      "prior_20_high": 82588.9,
       "prior_20_low": 79732.3,
-      "last_closed_candle_time": 1792079999999
+      "last_closed_candle_time": 1792083599999
     },
     "4h": {
       "volume_ratio_20": 3.039,
