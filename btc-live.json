@@ -1,42 +1,34 @@
 {
   "symbol": "BTCUSDT",
   "source": "Binance Futures",
-  "collected_at": "2026-10-16T03:59:32.924884+00:00",
-  "published_at": "2026-10-16T04:00:00.490152+00:00",
-  "last_price": 82093.1,
-  "mark_price": 82093.1,
-  "funding_rate": 5.619e-05,
-  "open_interest_btc": 94327.98,
+  "collected_at": "2026-10-16T04:04:37.752454+00:00",
+  "published_at": "2026-10-16T04:05:00.420115+00:00",
+  "last_price": 82000.1,
+  "mark_price": 82002.65544928,
+  "funding_rate": 5.592e-05,
+  "open_interest_btc": 94365.882,
   "candles": {
     "1h": {
-      "close_time": 1792119599999,
-      "open": 82052.5,
-      "high": 82211.6,
-      "low": 81957.9,
-      "close": 82010.0,
-      "volume_btc": 2780.573
+      "close_time": 1792123199999,
+      "open": 82010.0,
+      "high": 82185.2,
+      "low": 81637.7,
+      "close": 82088.0,
+      "volume_btc": 4826.739
     },
     "4h": {
-      "close_time": 1792108799999,
-      "open": 82350.9,
-      "high": 82550.9,
-      "low": 81889.2,
-      "close": 82195.4,
-      "volume_btc": 15654.976
+      "close_time": 1792123199999,
+      "open": 82195.3,
+      "high": 82500.0,
+      "low": 81637.7,
+      "close": 82088.0,
+      "volume_btc": 16556.692
     }
   },
   "version": "2.0",
-  "binance_time_ms": 1792123172003,
+  "binance_time_ms": 1792123477000,
   "history": {
     "1h": [
-      {
-        "close_time": 1791907199999,
-        "open": 83493.2,
-        "high": 83696.0,
-        "low": 83183.5,
-        "close": 83393.1,
-        "volume_btc": 5301.39
-      },
       {
         "close_time": 1791910799999,
         "open": 83393.0,
@@ -508,17 +500,17 @@
         "low": 81957.9,
         "close": 82010.0,
         "volume_btc": 2780.573
+      },
+      {
+        "close_time": 1792123199999,
+        "open": 82010.0,
+        "high": 82185.2,
+        "low": 81637.7,
+        "close": 82088.0,
+        "volume_btc": 4826.739
       }
     ],
     "4h": [
-      {
-        "close_time": 1791259199999,
-        "open": 85717.2,
-        "high": 86098.1,
-        "low": 85264.4,
-        "close": 85475.0,
-        "volume_btc": 12549.622
-      },
       {
         "close_time": 1791273599999,
         "open": 85475.0,
@@ -990,25 +982,33 @@
         "low": 81889.2,
         "close": 82195.4,
         "volume_btc": 15654.976
+      },
+      {
+        "close_time": 1792123199999,
+        "open": 82195.3,
+        "high": 82500.0,
+        "low": 81637.7,
+        "close": 82088.0,
+        "volume_btc": 16556.692
       }
     ]
   },
   "analytics": {
     "1h": {
-      "volume_ratio_20": 0.348,
+      "volume_ratio_20": 0.618,
       "prior_20_high": 82639.2,
       "prior_20_low": 79732.3,
-      "last_closed_candle_time": 1792119599999
+      "last_closed_candle_time": 1792123199999
     },
     "4h": {
-      "volume_ratio_20": 0.524,
+      "volume_ratio_20": 0.576,
       "prior_20_high": 84134.2,
       "prior_20_low": 79732.3,
-      "last_closed_candle_time": 1792108799999
+      "last_closed_candle_time": 1792123199999
     }
   },
   "oi_metrics": {
-    "change_1h_pct": 0.0394,
-    "change_4h_pct": 0.1771
+    "change_1h_pct": 0.0608,
+    "change_4h_pct": 0.2075
   }
 }
