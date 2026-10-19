@@ -1,20 +1,20 @@
 {
   "symbol": "BTCUSDT",
   "source": "Binance Futures",
-  "collected_at": "2026-10-19T09:59:46.778734+00:00",
-  "published_at": "2026-10-19T10:00:00.407694+00:00",
-  "last_price": 82762.4,
-  "mark_price": 82762.4,
+  "collected_at": "2026-10-19T10:04:51.533799+00:00",
+  "published_at": "2026-10-19T10:05:00.406828+00:00",
+  "last_price": 82833.7,
+  "mark_price": 82839.43326812,
   "funding_rate": 0.0001,
-  "open_interest_btc": 95066.808,
+  "open_interest_btc": 94955.088,
   "candles": {
     "1h": {
-      "close_time": 1792400399999,
-      "open": 82695.0,
-      "high": 82940.9,
-      "low": 82539.3,
-      "close": 82785.9,
-      "volume_btc": 6930.892
+      "close_time": 1792403999999,
+      "open": 82785.9,
+      "high": 83074.0,
+      "low": 82700.0,
+      "close": 82729.3,
+      "volume_btc": 5640.622
     },
     "4h": {
       "close_time": 1792396799999,
@@ -26,17 +26,9 @@
     }
   },
   "version": "2.0",
-  "binance_time_ms": 1792403986003,
+  "binance_time_ms": 1792404291004,
   "history": {
     "1h": [
-      {
-        "close_time": 1792187999999,
-        "open": 81694.6,
-        "high": 81771.4,
-        "low": 81533.4,
-        "close": 81648.6,
-        "volume_btc": 1461.062
-      },
       {
         "close_time": 1792191599999,
         "open": 81648.7,
@@ -508,6 +500,14 @@
         "low": 82539.3,
         "close": 82785.9,
         "volume_btc": 6930.892
+      },
+      {
+        "close_time": 1792403999999,
+        "open": 82785.9,
+        "high": 83074.0,
+        "low": 82700.0,
+        "close": 82729.3,
+        "volume_btc": 5640.622
       }
     ],
     "4h": [
@@ -995,10 +995,10 @@
   },
   "analytics": {
     "1h": {
-      "volume_ratio_20": 1.32,
+      "volume_ratio_20": 1.028,
       "prior_20_high": 83157.9,
       "prior_20_low": 80622.0,
-      "last_closed_candle_time": 1792400399999
+      "last_closed_candle_time": 1792403999999
     },
     "4h": {
       "volume_ratio_20": 1.221,
@@ -1008,7 +1008,7 @@
     }
   },
   "oi_metrics": {
-    "change_1h_pct": 0.0932,
-    "change_4h_pct": 0.1344
+    "change_1h_pct": -0.0318,
+    "change_4h_pct": 0.0412
   }
 }
