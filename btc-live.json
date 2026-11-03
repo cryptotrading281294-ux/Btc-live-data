@@ -1,20 +1,20 @@
 {
   "symbol": "BTCUSDT",
   "source": "Binance Futures",
-  "collected_at": "2026-11-03T02:59:55.537673+00:00",
-  "published_at": "2026-11-03T03:00:00.771703+00:00",
-  "last_price": 76687.3,
-  "mark_price": 76692.95569565,
+  "collected_at": "2026-11-03T03:05:00.114394+00:00",
+  "published_at": "2026-11-03T03:05:00.486635+00:00",
+  "last_price": 76555.2,
+  "mark_price": 76557.7,
   "funding_rate": 0.0001,
-  "open_interest_btc": 99172.031,
+  "open_interest_btc": 99145.711,
   "candles": {
     "1h": {
-      "close_time": 1793671199999,
-      "open": 77104.5,
-      "high": 77297.6,
-      "low": 77030.0,
-      "close": 77097.0,
-      "volume_btc": 4975.047
+      "close_time": 1793674799999,
+      "open": 77096.9,
+      "high": 77114.0,
+      "low": 76685.1,
+      "close": 76689.3,
+      "volume_btc": 5290.253
     },
     "4h": {
       "close_time": 1793663999999,
@@ -26,17 +26,9 @@
     }
   },
   "version": "2.0",
-  "binance_time_ms": 1793674795000,
+  "binance_time_ms": 1793675099000,
   "history": {
     "1h": [
-      {
-        "close_time": 1793458799999,
-        "open": 77477.2,
-        "high": 77589.6,
-        "low": 77367.3,
-        "close": 77382.6,
-        "volume_btc": 2556.357
-      },
       {
         "close_time": 1793462399999,
         "open": 77382.6,
@@ -508,6 +500,14 @@
         "low": 77030.0,
         "close": 77097.0,
         "volume_btc": 4975.047
+      },
+      {
+        "close_time": 1793674799999,
+        "open": 77096.9,
+        "high": 77114.0,
+        "low": 76685.1,
+        "close": 76689.3,
+        "volume_btc": 5290.253
       }
     ],
     "4h": [
@@ -995,10 +995,10 @@
   },
   "analytics": {
     "1h": {
-      "volume_ratio_20": 0.984,
-      "prior_20_high": 78436.4,
+      "volume_ratio_20": 1.025,
+      "prior_20_high": 78379.0,
       "prior_20_low": 76641.0,
-      "last_closed_candle_time": 1793671199999
+      "last_closed_candle_time": 1793674799999
     },
     "4h": {
       "volume_ratio_20": 0.855,
@@ -1008,7 +1008,7 @@
     }
   },
   "oi_metrics": {
-    "change_1h_pct": -0.2372,
-    "change_4h_pct": 0.2131
+    "change_1h_pct": -0.2382,
+    "change_4h_pct": 0.2482
   }
 }
