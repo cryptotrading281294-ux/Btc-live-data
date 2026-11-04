@@ -1,12 +1,12 @@
 {
   "symbol": "BTCUSDT",
   "source": "Binance Futures",
-  "collected_at": "2026-11-04T17:34:45.016785+00:00",
-  "published_at": "2026-11-04T17:35:00.750859+00:00",
-  "last_price": 80363.9,
-  "mark_price": 80363.9,
+  "collected_at": "2026-11-04T17:39:49.661644+00:00",
+  "published_at": "2026-11-04T17:40:00.614817+00:00",
+  "last_price": 80203.9,
+  "mark_price": 80215.5,
   "funding_rate": 0.0001,
-  "open_interest_btc": 97420.474,
+  "open_interest_btc": 97265.754,
   "candles": {
     "1h": {
       "close_time": 1793811599999,
@@ -26,7 +26,7 @@
     }
   },
   "version": "2.0",
-  "binance_time_ms": 1793813684000,
+  "binance_time_ms": 1793813989000,
   "history": {
     "1h": [
       {
@@ -1008,7 +1008,7 @@
     }
   },
   "oi_metrics": {
-    "change_1h_pct": 0.3667,
-    "change_4h_pct": -1.4052
+    "change_1h_pct": 0.2104,
+    "change_4h_pct": -1.5298
   }
 }
