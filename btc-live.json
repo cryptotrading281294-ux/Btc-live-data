@@ -1,20 +1,20 @@
 {
   "symbol": "BTCUSDT",
   "source": "Binance Futures",
-  "collected_at": "2026-11-06T04:59:54.259262+00:00",
-  "published_at": "2026-11-06T05:00:00.604026+00:00",
-  "last_price": 75749.2,
-  "mark_price": 75749.2,
-  "funding_rate": 4.738e-05,
-  "open_interest_btc": 95033.324,
+  "collected_at": "2026-11-06T05:04:58.836497+00:00",
+  "published_at": "2026-11-06T05:05:00.567362+00:00",
+  "last_price": 75666.1,
+  "mark_price": 75666.1,
+  "funding_rate": 4.825e-05,
+  "open_interest_btc": 95022.597,
   "candles": {
     "1h": {
-      "close_time": 1793937599999,
-      "open": 76162.5,
-      "high": 76247.0,
-      "low": 75731.0,
-      "close": 75880.7,
-      "volume_btc": 4556.657
+      "close_time": 1793941199999,
+      "open": 75880.6,
+      "high": 75886.0,
+      "low": 75588.0,
+      "close": 75742.1,
+      "volume_btc": 3978.563
     },
     "4h": {
       "close_time": 1793937599999,
@@ -26,17 +26,9 @@
     }
   },
   "version": "2.0",
-  "binance_time_ms": 1793941193001,
+  "binance_time_ms": 1793941498001,
   "history": {
     "1h": [
-      {
-        "close_time": 1793725199999,
-        "open": 77664.4,
-        "high": 77743.6,
-        "low": 77346.1,
-        "close": 77713.5,
-        "volume_btc": 5869.483
-      },
       {
         "close_time": 1793728799999,
         "open": 77713.5,
@@ -508,6 +500,14 @@
         "low": 75731.0,
         "close": 75880.7,
         "volume_btc": 4556.657
+      },
+      {
+        "close_time": 1793941199999,
+        "open": 75880.6,
+        "high": 75886.0,
+        "low": 75588.0,
+        "close": 75742.1,
+        "volume_btc": 3978.563
       }
     ],
     "4h": [
@@ -995,10 +995,10 @@
   },
   "analytics": {
     "1h": {
-      "volume_ratio_20": 0.351,
-      "prior_20_high": 80764.9,
+      "volume_ratio_20": 0.307,
+      "prior_20_high": 80629.2,
       "prior_20_low": 75158.0,
-      "last_closed_candle_time": 1793937599999
+      "last_closed_candle_time": 1793941199999
     },
     "4h": {
       "volume_ratio_20": 0.608,
@@ -1008,7 +1008,7 @@
     }
   },
   "oi_metrics": {
-    "change_1h_pct": 0.2234,
-    "change_4h_pct": 0.5765
+    "change_1h_pct": 0.1869,
+    "change_4h_pct": 0.549
   }
 }
